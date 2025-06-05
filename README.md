@@ -36,3 +36,5 @@ Os endereços devem persistir no banco de dados, através de uma API.
 - Você deve nos enviar o link do repositório GIT até o prazo estabelecido
 - Fique livre para usar sua criatividade e propor uma nova visão sobre a proposta, sem fugir da sua ideia inicial
 - Fique a vontade para tirar dúvidas através dos canais que já conversamos!
+
+Boa sorte! 🍀
